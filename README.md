@@ -1,0 +1,1 @@
+A bunch of scripts and payloads I've been using for internet-wide scans in search for open DNS, NTP and SNMP services. The heavy-lifting part done by [zmap](https://zmap.io). The results of my research were later used in my talk on reflected DDoS attacks.
